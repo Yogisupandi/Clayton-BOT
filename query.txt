@@ -1,2 +1,1 @@
-query_id=
-user=
+user=%7B%22id%22%3A6294039491%2C%22first_name%22%3A%22YA%22%2C%22last_name%22%3A%22%F0%9F%8D%85%F0%9F%90%BE%5C%22%F0%9F%8C%B1SEED%5C%22%20%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22Yogisu%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2F6tTr0kPX8nCH4IEQPTvWCMW95tN2iEtQS6Fx-59QO2Gdjlx7Jc3REAYX2T5CvIka.svg%22%7D&chat_instance=-7611482765301798762&chat_type=channel&auth_date=1733535100&signature=iYeSsmKe_waG8ubCFNDmjYG2EuXPj-PUX2AjgfqPlmcMMtPZwvykyuinahrgZMQd_QmGRnzfFFrJQfew5V3DBg&hash=84849c03b72f95229e38edd1db4041a7a8a1801237e975a2f45f1d0fe69d3367
